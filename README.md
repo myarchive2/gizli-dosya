@@ -2,3 +2,8 @@
 
 
 ödev = https://docs.google.com/spreadsheets/d/1jWul3tIVLDXYqTQL6RddcOvsQOg1OBbnoxTld1_1mAc/edit?hl=tr&gid=0#gid=0&bunabak=https://docs.google.com/presentation/d/1asze51zSIH0UbGC8zzIKf-eiYnKau1YS/edit?usp=sharing&ouid=104403908240065329598&rtpof=true&sd=true
+
+
+yardımcı dosyalar
+[ders script](https://docs.google.com/document/d/1NEYDKM-n3DGp10z12cHhUistca7-K-LDrtUrlPUcncg/edit?hl=tr&tab=t.0)
+[yöntem](https://docs.google.com/document/d/1H97de-daMD7EWf_9EouuKTEh030CZXHQfDPDtJG5bDY/edit?usp=sharing)
