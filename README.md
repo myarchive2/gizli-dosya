@@ -9,3 +9,5 @@
 [ders script](https://docs.google.com/document/d/1NEYDKM-n3DGp10z12cHhUistca7-K-LDrtUrlPUcncg/edit?hl=tr&tab=t.0)
 
 [yöntem](https://docs.google.com/document/d/1H97de-daMD7EWf_9EouuKTEh030CZXHQfDPDtJG5bDY/edit?usp=sharing)
+# önemli 
+ders sunumu =  https://chat.z.ai/space/t0zprawv5zf1-ppt
