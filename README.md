@@ -1,3 +1,6 @@
+# DİKKAT yapay zeka ile hazırlanmıştır
+
+
 ## ödev https://docs.google.com/spreadsheets/d/17MJkRzDFLolOA3hmOw8Hh2glO4U2yXrZIZSvntb6CWQ/edit?usp=sharing&bunabak=https://1drv.ms/x/c/053e294e40f4c208/ESoDgW_cxcdFsHKGPk_2JyIBLSzO_vpAYDnZ1ypNb3yPNQ?e=cnbeg5
 
 
